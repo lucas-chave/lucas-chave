@@ -6,7 +6,7 @@
 ### Entre em contato:
 <a href="https://www.linkedin.com/in/lucaschavesrodrigues/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <br/>
-<a>lcchavesr150@gmail.com</a>
+<a href="lcchavesr150@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ### Linguagens e ferramentas:
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
