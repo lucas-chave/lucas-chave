@@ -1,6 +1,6 @@
-## Lucas Chaves
+## Olá eu sou o Lucas!
 
-:man_technologist: Estudante de Desenvolvimento Web Full Stack na Trybe.
+:man_technologist: Atualmente sou estudante de desenvolvimento web na trybe, apaixonado por tecnologia e movido por desafios.
 
 
 ### Entre em contato:
@@ -20,6 +20,7 @@
 ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![image](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
