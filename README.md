@@ -1,6 +1,6 @@
 ## Olá eu sou o Lucas!
 
-:man_technologist: Atualmente sou estudante de desenvolvimento web na trybe, apaixonado por tecnologia e movido por desafios.
+:man_technologist: Atualmente sou estudante de desenvolvimento web na trybe. Um apaixonado por tecnologia e movido por desafios.
 
 
 ### Entre em contato:
