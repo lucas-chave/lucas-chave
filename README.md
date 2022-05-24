@@ -25,3 +25,10 @@
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+
+### Github Stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-chave&count_private=false&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-chave&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
